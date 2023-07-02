@@ -7,16 +7,16 @@ public class seminar_6 {
     private static HashMap<Integer, Object> mapa = new HashMap<>();
     private static final Object objectiv = new Object();
     public static void main(String[] args) {
-        AddChislo(0);
-        AddChislo(7);
-        AddChislo(43);
-        AddChislo(13); 
-        AddChislo(44);
+        AddChislo(1234);
+        AddChislo(43214);
+        AddChislo(898);
+        AddChislo(80085); 
+        AddChislo(4444);
         AddChislo(1);
         AddChislo(9);
-        AddChislo(38);
-        AddChislo(10);
-        AddChislo(50);
+        AddChislo(3568);
+        AddChislo(1);
+        AddChislo(5);
         System.out.println(isEmpty());
         Pechat();
         System.out.println();
